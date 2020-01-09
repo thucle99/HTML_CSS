@@ -1,0 +1,54 @@
+
+@import url('https://fonts.google.com/specimen/Pacifico');
+.search{
+	text-align: right;
+}
+.navbar li a{
+    color: red !important;
+}
+.navbar li:hover a{
+
+    color: black !important;
+    background: yellow !important;
+}
+.dropdown-menu{
+	background: yellow;
+}
+.carousel-inner img{
+	width: 100%;
+}
+.carousel-caption{
+	bottom: 5%;
+	color: #da205f;
+	text-shadow: 5px 5px 15px #000;
+}
+#group1,#group2,#group3{
+	color: #1b1ba9;
+	background: #cee4cf;
+}
+h2{
+	color: #da205f;
+}
+.marketing{
+	padding-left: 50px;
+	line-height: 1;
+	color: #2b2f00d4;
+	border: 2px solid #3ba73b;
+	background: #60a6d8;
+}
+.end{
+	padding-left: 100px;
+	background-color: #d1dc62;
+}
+hr{
+	border-top: 2px solid #5494b1; 
+	width: 90%;
+}
+.company{
+	text-align: center;
+	color: #d63300;
+	background-color:#331e1e; 
+}
+#N1{
+	padding-left: 50px;
+}
